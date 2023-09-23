@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm currently learning on PHP and JS Frameworks
-
+<img src="ee.png" alt="">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jefrey.kl) 
